@@ -1,7 +1,7 @@
 # About me
 He has no idea what he is doing.
-- Currently working on stuff and things (or things and stuff if you prefer).
-- Currently "learning" math (Am I really learning it? Who knows..). 
+- Currently working on stuff and things (or things and stuff if you prefer)
+- Currently "learning" math (Am I really learning it? Who knows...) 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
