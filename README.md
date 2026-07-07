@@ -1,5 +1,5 @@
 # About me
-He has no idea what he is doing.
+Figuring out how this stuff works. 
 - Currently working on stuff and things (or things and stuff if you prefer)
 - Currently "learning" math (Am I really learning it? Who knows...) 
 <!--
