@@ -7,4 +7,3 @@
 # Projects in Progress (Includes Private Repos)
 - *Gilaryn*: A text-based RPG set in a fantasy setting.
 - A collectiton of group-theory related scripts (e.g., Euler totient function and depicting the dihedral group).
-- A collection of Cirq-related scripts simulating various quantum computing scripts. 
